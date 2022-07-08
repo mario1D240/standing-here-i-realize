@@ -101,12 +101,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/raiden",
+	"image": "characters/senpai-pixel",
 	"position": [
 		-690,
 		-290
 	],
-	"healthicon": "raiden",
+	"healthicon": "senpai",
 	"flip_x": false,
 	"healthbar_colors": [
 		155,
