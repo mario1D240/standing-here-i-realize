@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="raiden.png">
-	<!-- Created with Adobe Animate version 22.0.0.93 -->
-	<!-- http://www.adobe.com/products/animate.html -->
+<TextureAtlas imagePath="senpai.png">
+	
+	
 	<SubTexture name="raidendown0000" x="0" y="0" width="1920" height="1080" frameX="-46" frameY="0" frameWidth="1966" frameHeight="1080"/>
 	<SubTexture name="raidendown0001" x="1954" y="0" width="1920" height="1080" frameX="0" frameY="0" frameWidth="1966" frameHeight="1080"/>
 	<SubTexture name="raidendown0002" x="3908" y="0" width="1920" height="1080" frameX="-22" frameY="0" frameWidth="1966" frameHeight="1080"/>
